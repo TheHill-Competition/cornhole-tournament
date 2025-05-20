@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cornhole-tournament/static/css/main.2544e43a.css",
-    "main.js": "/cornhole-tournament/static/js/main.060456e6.js",
+    "main.js": "/cornhole-tournament/static/js/main.4d67da08.js",
     "index.html": "/cornhole-tournament/index.html",
     "main.2544e43a.css.map": "/cornhole-tournament/static/css/main.2544e43a.css.map",
-    "main.060456e6.js.map": "/cornhole-tournament/static/js/main.060456e6.js.map"
+    "main.4d67da08.js.map": "/cornhole-tournament/static/js/main.4d67da08.js.map"
   },
   "entrypoints": [
     "static/css/main.2544e43a.css",
-    "static/js/main.060456e6.js"
+    "static/js/main.4d67da08.js"
   ]
 }
